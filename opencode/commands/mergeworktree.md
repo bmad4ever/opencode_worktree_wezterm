@@ -1,5 +1,5 @@
 ---
-description: Commit the current OpenCode worktree and merge its branch into the main repo (local, no remote)
+description: Commit and merge the current OpenCode worktree branch into main
 ---
 !`powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "& ([Environment]::GetFolderPath('UserProfile') + '\.config\opencode\scripts\mergeworktree.ps1') -CommitMessage '$ARGUMENTS'"`
 
