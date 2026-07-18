@@ -1,5 +1,5 @@
 as simple as it gets:
-### WEZTERM ➞ OPENCODE ➞ ```/startworktree branch_name [--link <dir>]``` ➞ /mergeworktree
+### WEZTERM ➞ OPENCODE ➞ ```/startworktree <branch_name> [--link <dir>]``` ➞ vibe ➞ ```/mergeworktree```
 
 > [!WARNING]
 > new opencode instance runs with --yolo flag 
